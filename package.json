@@ -1,0 +1,22 @@
+{
+  "name": "skel",
+  "version": "1.0.0",
+  "description": "A well-structured Git repository skeleton",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parisk/skel.git"
+  },
+  "author": "Paris Kasidiaris <paris@sourcelair.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parisk/skel/issues"
+  },
+  "homepage": "https://github.com/parisk/skel",
+  "devDependencies": {
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0"
+  }
+}
