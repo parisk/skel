@@ -28,7 +28,7 @@ Here you can enter some information about how is this project developed, like:
 ## :handshake: Contributing
 Share information about how should people contribute code to this repository. It's a good practice to share a couple of tips here and then point people to your [CONTRIBUTING.md](CONTRIBUTING.md) file, which contains more details on this topic.
 
-## :envelope: LICENSE
+## :file_folder: LICENSE
 This project is licensed under the MIT License, as stated in the [LICENSE](LICENSE) file.
 
 If you contribute code to this project, you are implicitly allowing your code to be distributed under the MIT license. You are also implicitly verifying that all code is your original work.
